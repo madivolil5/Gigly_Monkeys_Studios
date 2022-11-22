@@ -38,7 +38,9 @@ The average budget for a production is USD 3.473329e+07. The returns from this i
 image_2.png
 
 Production budget is weakly positively correlated with runtime minutes and average rating. ***Higher production cost does not imply more runtime minutes and increased rating.***. Production budget is highly correlated with domestic gross and world wide gross. ***This implies that, the more cost incured during the production, the higher the domestic and worldwide gross hence more profit***. It can also be noted that domestic gross is highly positively correlated with worldwide gross. An increase in domestic gross leads to an increase in worldwide gross. 
+
 image_3.png
+
 image_4.png
 
 The top 5 productions are classified under drama, documentary, commedy, commedy/drama and commedy/drama/romance. Since 2012, drama has the highest number of productions at total of roughly 290 productions and  commedy/drama/romance being the least in terms of number of productions in the top-5 category with a total of around 75 productions since 2010.  
